@@ -6,7 +6,7 @@
 name: Ivan Lizarazo
 
 # Short bio or description (displayed in the header)
-description: Professor of Remote Sensing and GIS at Universidad Distrital
+description: Professor of Remote Sensing and GIS at Universidad Distrital & Universidad Nacional
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -50,7 +50,7 @@ baseurl: ""
 #
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
